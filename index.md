@@ -7,11 +7,9 @@
 
 ## Instructors
 
-* Abigail Edwards (CRUK Cambridge Institute)
-* Jiayin Hong (Welcome Sanger Institute)
-* Jon Price (Gurdon Institute, University of Cambridge)
-* Ulrika Yuan (Dpt Biochemistry, University of Cambridge)
-* Ramy Ragheb (Stem Cell Institute, University of Cambridge)
+* Ashley Sawle (CRUK Cambridge Institute)
+...
+...
 
 ## Outline
 
@@ -48,25 +46,24 @@ differential expression analysis of RNA-seq data.
 10:15 - 11:00 [Raw read file format and QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html) - Jon
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html)
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_solutions.html) 
+  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_solutions.html)  -->
 
 11:00 - 13:30 [Alignment and Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_introduction.html) - Jon
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_practical.html)  
- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_solutions.html) 
+ <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_solutions.html)  -->
 
 13:30 - 14:30 Lunch
 
 14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Abbi
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.pdf))  
-   - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.pdf)) 
+ <!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.pdf)) -->
 
 15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_Slides.html) - Ramy
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.pdf))
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.pdf)) 
-  - [Live Script](live_scripts/DataExploration_Ramy.R) 
+<!--   - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.pdf)) -->
 
 
 ### Day 2
@@ -80,7 +77,7 @@ differential expression analysis of RNA-seq data.
 11:30 - 17:30 [Linear Models in R and DESeq2 (Slides)](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/07_Statistics_2.pdf) - Abbi
 
   - [Practical - Differential Expression for RNA-seq](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.pdf)) - Ulrika
-   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.pdf)) 
+  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.pdf)) -->
   <!-- - [live script](live_scripts/DESeq2_script.R)  -->
   
   -  [Linear Models in R and DESeq2 (Worksheet)](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.pdf))  
@@ -103,14 +100,14 @@ differential expression analysis of RNA-seq data.
 11:00 - 12.30 [Visualisation differential expression results](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_Slides.html) - Jiayin
 
    - [Practical](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation.html)
-   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_solutions.html) 
+ <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_solutions.html) -->
   <!-- - [live script](live_scripts/visualisation.R) -->
 
 12.30 - 13.30 Lunch
 
 13.30 - 16:30  [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_introduction.html) - Abbi
    - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing.html) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing.pdf)
-   - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.html) (pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.pdf) 
+  <!-- - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.html) (pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.pdf) -->
    - [Live Script](live_scripts/GeneSet.R) 
 
 
